@@ -1,0 +1,74 @@
+body{
+    background-color: gray;
+    margin: 0 auto;
+    width: 960px;
+}
+.container{
+overflow: hidden;
+border: 2px solid lightpink;
+border-radius: 10px;
+}
+.header{
+height: 100px;
+background-color: rgb(60, 124, 124);
+font-size: 40px;
+color: white;
+text-align: center;
+border: 1px solid green;
+border-radius: 7px;
+}
+.main{
+float: left;
+height: 100px;
+background-color: rgb(18, 58, 58);
+font-size: 40px;
+text-align: center;
+color: white;
+width: 70%;
+}
+.aside{
+    float: right;
+height: 100px;
+background-color: rgb(57, 134, 84);
+font-size: 40px;
+text-align: center;
+color: white;
+width: 30%;
+}
+.item1{
+    float: left;
+height: 100px;
+background-color: rgb(41, 31, 126);
+font-size: 40px;
+text-align: center;
+color: white;
+width: 33%;
+}
+.item2{
+    float: left;
+height: 100px;
+background-color: rgb(118, 31, 31);
+font-size: 40px;
+text-align: center;
+color: white;
+width: 34%;
+}
+.item3{
+    float: left;
+height: 100px;
+background-color: rgb(138, 31, 85);
+font-size: 40px;
+text-align: center;
+color: white;
+width: 33%;
+}
+.footer{
+    height: 100px;
+background-color: rgb(6, 94, 148);
+font-size: 40px;
+text-align: center;
+color: white;
+border: 1px solid green;
+border-radius: 7px;
+
+}
